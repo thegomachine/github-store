@@ -1,7 +1,9 @@
 /*
 Package github provides a GitHub release store.
+
 This package has been directly
 picked from https://github.com/tj/go-update/blob/master/stores/github/github.go.
+
 It is almost the same, but now tag is no more prefixed with "v".
 */
 package github

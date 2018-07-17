@@ -13,7 +13,9 @@
 
 [go-update](https://github.com/tj/go-update) is a go package for auto-updating system-specific binaries via GitHub releases.
 
-The current store used by this package automatically prefix the release tag with "v". Package `thegomachine/github-store` provides the same API but without prefixing release tag.
+The current store used by this package automatically prefix the release tag with "v". 
+
+Package `thegomachine/github-store` provides the same API but without prefixing release tag.
 
 ## Installation
 
